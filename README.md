@@ -1,3 +1,5 @@
+![alt text](./hubble_deep_field.jpg "Hubble Deep Field")
+
 # deep-field
 Exploring some data from the Hubble Deep Field.
 
